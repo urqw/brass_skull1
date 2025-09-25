@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ifindex version="1.0" xmlns="http://babel.ifarchive.org/protocol/iFiction/">
+	<story>
+		<identification>
+			<ifid>EE5883F4FB43739C61793BBCB0AC8B99</ifid>
+			<format>urqw</format>
+		</identification>
+		<bibliographic>
+			<title>Латунный череп. Глава Первая: Быкомедведь</title>
+			<author>Юрий Павленко (Goraph)</author>
+			<language>ru</language>
+			<firstpublished>2013-11-15</firstpublished>
+			<genre>Фантастика</genre>
+			<group>URQ</group>
+			<description>В далёком будущем, когда земля была уже старой. В Прибалтике, что не так далеко отсюда...</description>
+		</bibliographic>
+		<contacts>
+			<url>https://urqw.github.io/UrqW/#brass_skull1</url>
+		</contacts>
+		<colophon>
+			<generator>UrqW Game Template</generator>
+			<originated>2025-09-24</originated>
+		</colophon>
+	</story>
+</ifindex>
