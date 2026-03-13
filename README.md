@@ -4,7 +4,7 @@ Text-based game "The Brass Skull. Chapter One: The Oxbear" (Russian: "Латун
 
 The game is in Russian, developed for AkURQ, and adapted for [UrqW](https://github.com/urqw/UrqW) text-based game engine.
 
-This repository contains the source code and other resources of the game. The game is available for launch in the [UrqW engine online catalog](https://urqw.github.io/UrqW/#brass_skull1).
+This repository contains the source code and other resources of the game. The game is available for launch in the [UrqW engine online catalog](https://urqw.github.io/UrqW/?id=brass_skull1).
 
 The game was first published on November 15, 2013.
 
